@@ -297,6 +297,11 @@
   Place: New Delhi, India  
   Bio: I am an aspiring programmar
   GitHub: [Sarsiz](https://github.com/sarsiz)
+  
+- Name: Nancy  
+   Place: USA 
+   Bio: CS Student  
+   Github: [nancynh](https://github.com/nancynh)  
 
 - Name: Akshay Kumar
   Place: India
